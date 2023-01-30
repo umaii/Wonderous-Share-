@@ -63,7 +63,7 @@ dev_dependencies:
   integration_test:
     sdk: flutter
   json_serializable: ^6.3.1
-  dart_code_metrics: ^4.17.1
+  dart_code_metrics: ^5.5.1
 
 flutter_icons:
   ios: true
